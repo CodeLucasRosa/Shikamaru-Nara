@@ -29,4 +29,4 @@ O design é simples, focado na apresentação visual e na responsividade simples
 ## 🔗 Acesse o site
 
 Você pode visualizar o projeto aqui:  
-👉 [Shikamaru Nara - GitHub Pages](https://seulink.github.io)
+👉 [Shikamaru Nara - GitHub Pages](https://codelucasrosa.github.io/Shikamaru-Nara/)
